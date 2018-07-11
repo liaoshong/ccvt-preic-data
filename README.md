@@ -17,7 +17,7 @@ The *BOX_SIZE* parameter used in computing these data is *1.0*. Please
 refer to the *user guide* of [the ccvt-preic code](https://github.com/liaoshong/ccvt-preic)
 for the naming convention, file format and usage of these files.
 For the details of the CCVT method to produce pre-initial conditions,
-please refer to [this paper](https://arxiv.org/abs/xxxx.xxxxx).
+please refer to [this paper](https://arxiv.org/abs/1807.03574).
 
 If you need any assistance in the data, please contact Shihong Liao
 ([liaoshong@gmail.com](mailto:liaoshong@gmail.com)).
